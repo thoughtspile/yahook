@@ -1,0 +1,8 @@
+{
+  "name": "yahook",
+  "version": "0.0.1",
+  "description": "Yet Another React hooks library",
+  "main": "dist/index.js",
+  "author": "v.klepov <v.klepov@corp.vk.com>",
+  "license": "MIT"
+}
